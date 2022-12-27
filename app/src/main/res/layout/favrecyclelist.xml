@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#EFEFEF"
+    android:layout_marginTop="5dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    >
+
+
+    <ImageView
+        android:id="@+id/icon_view"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:paddingStart="5dp"
+        android:src="@drawable/app_icon"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/favouraitbt"
+        app:layout_constraintHorizontal_bias="0.001"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/music_title_text"
+        android:layout_width="590dp"
+        android:layout_height="51dp"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/icon_view"
+        android:maxLines="1"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/favouraitbt"
+        app:layout_constraintStart_toStartOf="@+id/icon_view"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Music" />
+
+    <ImageButton
+        android:id="@+id/favouraitbt"
+        android:layout_width="87dp"
+        android:layout_height="51dp"
+        android:layout_toEndOf="@+id/music_title_text"
+        android:background="@android:color/transparent"
+        android:paddingEnd="5dp"
+        android:src="@drawable/ic_baseline_favorite_24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.6" />
+</androidx.constraintlayout.widget.ConstraintLayout>

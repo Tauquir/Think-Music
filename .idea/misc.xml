@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.304" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/drawable/circle.xml" value="0.369" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.3425" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/drawable/ic_launcher_background.xml" value="0.304" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/drawable/image.xml" value="0.37" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/layout/_drawer.xml" value="0.334375" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/layout/activity_favourite.xml" value="0.33" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/layout/activity_first_page_after_login.xml" value="0.3203125" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/layout/activity_music_player.xml" value="0.33" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/layout/activity_test.xml" value="0.190625" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/layout/content_test.xml" value="0.3692708333333333" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/layout/favrecyclelist.xml" value="0.2" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/layout/menunew.xml" value="0.190625" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/layout/nav_header_test.xml" value="0.340625" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/layout/recycler_item.xml" value="0.33" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/layout/toolbar.xml" value="0.190625" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/menu/activity_main_drawer.xml" value="0.3651041666666667" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/menu/menu.xml" value="0.3651041666666667" />
+        <entry key="..\:/and/THINKMUSIC/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.189" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
